@@ -1,0 +1,77 @@
+.all {
+    display: fixed;
+    
+    top: 0;
+    justify-content: center;
+    
+    left: 100px;
+    display: flex;
+    align-items: top;
+    margin: 0;
+        
+    height: 3000px;
+
+}
+
+
+
+.discord {
+    height: 780px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    
+    border-radius: 25px;
+    max-width: 100px;
+    border-width: 1.5px;
+
+}
+.discord:hover {
+    cursor: pointer;
+    background-color: rgb(36, 0, 196);
+    border-width: 1px;
+}
+
+.youtube{
+    height: 780px;
+    width: 110px;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-width: 1px;
+    border-radius: 25px ;
+    border-width: 1px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.youtube:hover {
+    cursor: pointer;
+    background-color: rgb(250, 50, 50);
+    border-width: 1px;
+}
+
+.drive{
+    height: 780px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+    border-width: 1px;
+    border-radius:25px;
+    
+}
+.drive:hover {
+    background-color: green;
+    cursor: pointer;
+    border-width: 1px;
+}
+.logo-1 {
+    height: 30px;
+
+}
+.logo-2 {
+    height: 20px;
+
+}
+.logo-3 {
+    height: 40px;
+}

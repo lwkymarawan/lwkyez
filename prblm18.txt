@@ -1,0 +1,27 @@
+Input the string/sentence;
+create varibles
+    number of digits = x
+    number of chars = y
+    number of punct = z
+    number of spaces = i
+
+if(.isdigit == true):
+    x+=1;
+else:
+    break;
+if(.ischar == true):
+    y+=1;
+else:
+    break;
+if(.ispunct == true):
+    z+=1;
+else:
+    break;
+if(.isspace == true):
+    i+=1;
+else:
+    break;
+
+cout << "the number of digits are: "<< x << " /n the number of chars are: " << y<< " /n the number of punctuation is: "<< z << " /n the number of spaces are : " << i;
+
+
